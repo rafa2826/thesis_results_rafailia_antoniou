@@ -18,4 +18,4 @@ This repository contains the code and experimental results used in my thesis pro
 
 ## Full image dataset
 Due to size limitations, the full set of generated images is available via Google Drive:
-[LINK]
+[(https://drive.google.com/drive/folders/1Rdpg_EiBLmz61axRahcREutpEb7l8O4G?usp=drive_link)]
